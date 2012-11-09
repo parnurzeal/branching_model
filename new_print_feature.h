@@ -6,7 +6,7 @@
 class NewPrintFeature{
  public:
   NewPrintFeature(){}
-  void print(){ std::cout<<"Hello Branching Man!";}
+  void print(){ std::cout<<"Hello Branching Man!"<<std::endl;}
 };
 
 
