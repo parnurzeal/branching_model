@@ -1,3 +1,8 @@
+/****************************/
+/** This is version 0.1   ***/
+/** Author: A             ***/
+/****************************/
+
 #include <iostream>
 #include "new_print_feature.h"
 
